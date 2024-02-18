@@ -2,6 +2,7 @@
 
 This visualization contrasts Einstein's prediction of a shifting perihelion in planetary orbits with Newton's static perihelion model, underscored by a graph comparing their potential energy predictions, highlighting Einstein's theory's ability to indicate relativistic effects such as the event horizon.
 
+# (Gif bellow can take some time to load.)
 <p align="center">
   <img src="./orbits.gif" alt="Orbits" width="1100">
 </p>
